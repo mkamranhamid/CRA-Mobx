@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Art Station
+## CRA Mobx
 
 In the project directory, you can run:
 
